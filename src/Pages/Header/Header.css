@@ -1,0 +1,29 @@
+.background {
+  /* background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAACxCAMAAAAh3/JWAAAAA1BMVEUuf7NvZtE/AAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIALA8UNAAFusnLHAAAAAElFTkSuQmCC); */
+  background-color: #8ec2fe;
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.ankor {
+  color: white !important;
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-weight: bolder;
+}
+.navbar .container .navbar-collapse .navbar-nav .ankor .nav-link {
+  color: white;
+}
+.text {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.first-head {
+  background-color: white;
+}
+.fas {
+  color: #caba2a;
+}
